@@ -1,6 +1,6 @@
 Assignment 4 - DataVis Remix!
 ===
-
+Link: <https://petrakumi12.github.io/04-Remix/>
 The primary aim of this assignment is to showcase your **individual** skills at critiquing and creating interactive visualizations on the web.
 
 ### Original Visualization
