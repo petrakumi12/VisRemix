@@ -1,0 +1,165 @@
+id,name,org_type,effort
+0,EcoCentre,Target,
+1,3CR,Community Organization,
+2,3RRR Radio Marinara,Community Organization,10.0
+3,3WBC,Business,5.0
+4,Aesop,Business,10.0
+5,AGL Energy,Business,10.0
+6,Albert Park College,Education,5.0
+7,Albert Park Primary School,Education,10.0
+8,Animal Liberation Victoria,Community Organization,5.0
+9,Association of Bayside Municipalities,Community Organization,10.0
+10,Australian Coastal Society,Community Organization,5.0
+11,Australian Landcare International,Community Organization,5.0
+12,Australian Marine Conservation Society,Community Organization,5.0
+13,Australian Marine Mammal Conservation Foundation,Community Organization,5.0
+14,Bayside City Council,Local Government,30.0
+15,Bayside Climate Change Action Group,Community Organization,5.0
+16,Beach Patrol Australia,Community Organization,30.0
+17,Bellarine Catchment Network,Community Organization,20.0
+18,Biofilta,Business,
+19,Boon Wurrung Foundation,Community Organization,40.0
+20,Brighton Sea Scouts,Community Organization,40.0
+21,Carbon Arts,Community Organization,5.0
+22,Catholic Education Melbourne,Education,40.0
+23,Centre for Education and Research in Environmental Strategies (CERES),Community Organization,30.0
+24,Christ Church Community Centre,Community Organization,5.0
+25,City of Monash,Local Government,5.0
+26,City of Port Phillip,Local Government,120.0
+27,City of Stonnington,Local Government,10.0
+28,City of Wyndham,Local Government,5.0
+29,City of Yarra Ranges,Local Government,5.0
+30,Clean Up Australia,Community Organization,5.0
+31,Coastcare Victoria,State Government,30.0
+32,Community Information Glen Eira,State Government,5.0
+33,Cool Australia,Community Organization,5.0
+34,Deakin University,Education,30.0
+35,"Department of Environment, Land, Water and Planning",State Government,120.0
+36,Desert Discovery Inc,Community Organization,5.0
+37,Diver Matt,Other,
+38,Divercity,Community Organization,20.0
+39,Dolphin Research Institute,Community Organization,20.0
+40,Earthcare St. Kilda,Community Organization,30.0
+41,Earthsong,Community Organization,
+42,Elwood and St Kilda Neighbourhood Learning Centre,Community Organization,5.0
+43,Elwood Community Bank Branch,Business,5.0
+44,Elwood Flood Action Group (eFLAG),Community Organization,5.0
+45,Environment Education Victoria (former VAEE),Community Organization,40.0
+46,Environmental Protection Authority Victoria,State Government,50.0
+47,Environmental Resource Management (ERM) Foundation,Trust/Foundation/Foundation,10.0
+48,Frankston City Council,Local Government,10.0
+49,Friends of Barwon Bluff,Community Organization,10.0
+50,Friends of Elster Creek,Community Organization,50.0
+51,Friends of Greenwich Bay,Community Organization,10.0
+52,Friends of McCrae Foreshore,Community Organization,10.0
+53,Friends of Westgate Park,Community Organization,30.0
+54,Friends of Williamstown Wetlands,Community Organization,20.0
+55,Gardenvale Primary School,Education,10.0
+56,Geography Teachers' Association of Victoria,Other,20.0
+57,Glen Eira City Council,Local Government,20.0
+58,Glen Eira Environment Group,Community Organization,5.0
+59,Glen Huntly Primary School,Education,10.0
+60,GoodCompany,Business,5.0
+61,Gordon TAFE,Education,30.0
+62,Greensong,Business,
+63,Hamer Sprout Fund,Trust/Foundation/Foundation,10.0
+64,Helen Macpherson Smith,Trust/Foundation/Foundation,5.0
+65,Hobsons Bay City Council,Local Government,5.0
+66,Hub Australia,Business,
+67,Indigenous Flora and Fauna Association,Community Organization,10.0
+68,Inner Eastern Local Learning and Employment Network,Community Organization,10.0
+69,Inner South Community Health (now STAR Health),Business,5.0
+70,Insurance Australia Group,Business,
+71,Jawbone Sanctuary Marine Care Group,Community Organization,30.0
+72,Jewish Ecological Coalition,Community Organization,20.0
+73,Keep Australia Beautiful,Community Organization,20.0
+74,Keep Victoria Beautiful,Community Organization,5.0
+75,Kids in Nature Network,Community Organization,5.0
+76,Kids Teaching Kids,Business,20.0
+77,Kingston City Council,Local Government,5.0
+78,Landcare Australia,Community Organization,5.0
+79,Latenite Films,Business,
+80,Little Feet Music,Business,5.0
+81,LIVE - Locals Into Victoria’s Environment,Community Organization,60.0
+82,Lord Mayors’ Charitable Foundation,Trust/Foundation/Foundation,10.0
+83,Love Our Street 3184,Community Organization,5.0
+84,Lutman Films,Business,
+85,Mammal Survey Group of Victoria,Community Organization,10.0
+86,Marine Care Ricketts Point,Community Organization,
+87,Mary and Basil Community Garden,Community Organization,10.0
+88,Melbourne Girls’ College,Education,30.0
+89,Melbourne Polytechnic,Education,5.0
+90,Melbourne Ports Stop Adani,Community Organization,100.0
+91,Melbourne Water,Local Government,40.0
+92,Metropolitan Waste and Resource Recovery Group,Local Government,40.0
+93,Monash University,Education,5.0
+94,Montague Continuing Education Centre,Education,30.0
+95,MOOP Patrol,Community Organization,10.0
+96,Mornington Peninsula Shire,Government,10.0
+97,National Australia Bank (NAB),Business,10.0
+98,National Centre for Coasts and Climate,Government,5.0
+99,OASES College and Graduate School,Education,20.0
+100,Parks Victoria,Government,5.0
+101,Patagonia,Business,10.0
+102,Pelican Expeditions & Saltwater Projects,Business,10.0
+103,PJT Green Plumbing,Business,5.0
+104,Ply Creative,Business,
+105,Point Nepean Conservation Society,Community Organization,
+106,Polperro Dolphin Swims,Business,10.0
+107,Port Melbourne Primary School,Education,5.0
+108,Port Phillip & Westernport Catchment Management Authority,State Government,20.0
+109,Port Phillip Bicycle Users' Group,Community Organization,5.0
+110,Port Phillip Citizens for Reconciliation,Community Organization,
+111,Port Phillip Community Group (PPCG),Community Organization,5.0
+112,Port Phillip Housing Association (PPHA),Community Organization,10.0
+113,Presentation College,Education,5.0
+114,Public Records Office Victoria,State Government,5.0
+115,Qiantang Riverkeeper,Community Organization,5.0
+116,Renegades,Business,30.0
+117,Royal Melbourne Institute of Technology,Education,30.0
+118,Royal Melbourne Yacht Squadron,Business,
+119,Rye Foreshore Management Committee,Other,10.0
+120,Sacred Heart Mission/ Outlandish,Community Organization,10.0
+121,Save Albert Park,Community Organization,
+122,Save the Bays Bahamas,Community Organization,10.0
+123,Scab Duty,Community Organization,10.0
+124,Sea Life Trust (Melbourne Aquarium),Business,10.0
+125,Sea Sheperd Australia,Community Organization,5.0
+126,Sheree Marris (Melbourne Down Under),Other,10.0
+127,"SKINC (St Kilda Indigenous Nursery
+Co-operative)",Community Organization,10.0
+128,South Port Uniting Care,Community Organization,5.0
+129,Southern Peninsula Flora and Fauna Association,Community Organization,5.0
+130,Soxy Beast,Business,5.0
+131,St Kilda Community Garden Club,Community Organization,
+132,St Kilda News,Education,10.0
+133,St Kilda Primary School,Education,20.0
+134,St Louis de Montfort Primary School,Education,10.0
+135,Stonnington Climate Change Action Network,Business,
+136,Stratton,Business,5.0
+137,Sustain: Australian Food Network,Government,10.0
+138,Sustainability Victoria,State Government,30.0
+139,Tangaroa Blue Foundation,Community Organization,10.0
+140,Target,Business,5.0
+141,Telstra,Business,5.0
+142,The Connies,Community Organization,5.0
+143,Tomorrow’s Leaders for Sustainability Inc,Community Organization,20.0
+144,Trade Creative Media,Business,5.0
+145,Transition Port Phillip,Community Organization,5.0
+146,Trash Puppets,Community Organization,5.0
+147,Treasury Wine Estates,Business,5.0
+148,University of Melbourne,Education,30.0
+149,Upper Yarra Landcare,Community Organization,5.0
+150,Veg Out Community Garden,Community Organization,5.0
+151,Victoria International Container Terminal Community Investment Fund,Trust/Foundation/Foundation,5.0
+152,Victoria National Parks Association,State Government,5.0
+153,Victoria Polytechnic,Education,5.0
+154,Victorian Department of Education and Training,State Government,10.0
+155,Victorian Landcare Council (now Landcare Victoria Incorporated (LVI)),Community Organization,5.0
+156,Victorian Litter Action Alliance,State Government,30.0
+157,Vivad Pty Ltd,Business,
+158,Waterkeeper Alliance,Community Organization,60.0
+159,Werribee Riverkeeper,Community Organization,50.0
+160,William Angliss TAFE,Education,5.0
+161,Worcester Polytechnic Institute,Education,30.0
+162,Yarra Riverkeeper,Community Organization,50.0
