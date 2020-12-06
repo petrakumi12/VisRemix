@@ -1,11 +1,13 @@
-Assignment 4 - DataVis Remix!
+DataVis Remix!
 ===
 Link: <https://petrakumi12.github.io/04-Remix/>
-The primary aim of this assignment is to showcase your **individual** skills at critiquing and creating interactive visualizations on the web.
+In this project I critiqued a data visualization and improved upon it using web tools.
+
+![Image](resources/img/viz_front.png)
 
 ### Original Visualization
 
-This visualization was done by an IQP team that went to Australia last D term. I was able to contact the advisors and
+This visualization was done by an WPI IQP team that went to Australia last D term. I was able to contact the advisors and
 retrieve the data they collected so I could redo their viz. 
 
 The visualization shows various organizations that the Port Philip EcoCentre in Australia has partnerships with. The bigger
